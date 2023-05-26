@@ -20,3 +20,15 @@
 ![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
 ![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
 ![](https://img.shields.io/badge/Made%20at-PPC%20NTU%20%22KhPI%22-blue.svg) 
+
+## Скріншоти з результатами програми
+
+
+Я обрав завдання на 5 балів, всі дані програма бере з файлу test.dat
+
+### Якщо ввести айді 1:
+![Описание изображения](image/example1.png)
+
+### Якщо ввести айді 2:
+
+![Описание изображения](image/example2.png)
